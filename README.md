@@ -15,6 +15,6 @@
 * **Ayudante de laboratorio:** Rodrigo Alejandro Sánchez Morales.
 
 ### 🎓 Datos del alumno
-* **Nombre:** [Escribe tu nombre completo]. 📝
-* **Número de cuenta:** [Escribe tu número de cuenta]. 🔢
-* **Correo institucional:** [Escribe tu correo institucional]. 🏫
+* **Nombre:** Jose Emiliano Vazquez Rivas. 📝
+* **Número de cuenta:** 321013206. 🔢
+* **Correo institucional:** emiliano2505@ciencias.unam.mx  🏫
